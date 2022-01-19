@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_gifimage/flutter_gifimage.dart';
+import 'package:gifimage/flutter_gifimage.dart';
 
 void main() => runApp(MyApp());
 
